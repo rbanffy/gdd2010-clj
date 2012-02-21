@@ -1,0 +1,9 @@
+# gdd2010-clj
+
+A solution to the 2010 Google Developer Day admission test using Clojure as the implementation language, as described on http://www.dieblinkenlights.com/blog_pt/a-prova-do-gdd-em-lisp (in Portuguese, sorry about that)
+
+## License
+
+Copyright (C) 2012 Ricardo Bánffy
+
+Distributed under the GNU General Public License, versio 3 or later
